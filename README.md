@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+It was not until I stumbled across a search result that led me to [How to create a GitHub Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha). It makes a lot of sense to be able to set up something to introduce myself to you. After all, how often are you going to click on the link to a website on a GitHub's user profile?
